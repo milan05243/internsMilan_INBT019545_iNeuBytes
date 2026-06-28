@@ -16,7 +16,7 @@ The project demonstrates the complete Natural Language Processing (NLP) pipeline
 
 ---
 
-# 🎯Objectives
+# Objectives
 
 - Perform sentiment classification on IMDb movie reviews.
 - Apply text preprocessing techniques.
